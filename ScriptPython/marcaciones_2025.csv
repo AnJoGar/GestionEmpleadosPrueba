@@ -1,0 +1,7 @@
+empleado_id,nombre,fecha,hora,tipo_marcacion
+1,Carlos Gómez,2025-04-11,12:35:08,ingreso
+1,Carlos Gómez,2025-04-11,12:36:19,ingreso
+2,Juan,2025-04-11,12:54:11,ingreso
+2,Juan,2025-04-11,12:59:29,salida
+2,Juan,2025-04-11,13:00:31,ingreso
+2,Juan,2025-04-11,13:00:40,almuerzo_inicio
